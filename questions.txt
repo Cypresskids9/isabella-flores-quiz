@@ -1,0 +1,31 @@
+Topic: Pokemon
+
+1 Question: What pokemon is the mascot of pokemon?
+Pickachu | Eevee | Charzard | Arceus
+
+2 Question: What is the most powerful pokemon ever?
+Arceus | Mew | Mewtwo | Pickachu
+
+3 Ouestion: What is the water type starter in the kanto region?
+Sqirtle | Papplio | Toadadile | Piplup
+
+4 Question: How many Lake guardians are there?
+1 | 2 | 3 | 4
+
+5 Question: What is the other partner pokemon? Groudon and...?
+Dialga | Latias | Darkri | Kyogre
+
+6 Question: What is the other partner pokemon? Darkri and...?
+Zeckrom | Creselia | Palkia | Stanler
+
+7 Question: What is the last starter pokemon? Bulbasuar Squirtle and...?
+Charmander | Toadadile | Snivy | Litten
+
+8 Question: What is the last starter pokemon? Papplio Litten and...?
+Bulbasuar | Snivy | Rowlett | Squirtle
+
+9 Ouestion: What pokemon evolves into Urshifu?
+Kubfu | Geodude | Machamp | Graveler
+
+10 Question: How many Eeveelutions are there?
+7 | 8 | 9 | 10
